@@ -25,12 +25,19 @@ Thumbs.db
 
 # Python cache
 .pytest_cache/
+*.pyc
 
 # Logs
 *.log
 
 # Large datasets
 data/raw/
+
+# Environment variables
+.env
+
+# Conda environments
+conda-meta/
 
 # Secrets
 .env
