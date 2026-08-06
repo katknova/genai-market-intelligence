@@ -33,6 +33,9 @@ Thumbs.db
 # Large datasets
 data/raw/
 
+# Experiments
+tests/notebooks
+
 # Environment variables
 .env
 

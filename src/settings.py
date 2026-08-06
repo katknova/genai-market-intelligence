@@ -52,7 +52,7 @@ REQUEST_TIMEOUT = 30  # seconds
 # Pipeline settings
 # -------------------------------------------------------------------
 DEFAULT_DAYS_BACK = 7 # days
-MAX_PAGES_PER_QUERY = 2 # pages
+MAX_PAGES_PER_QUERY = 1 # pages
 MIN_ARTICLE_LENGTH = 50 # words
 
 # -------------------------------------------------------------------
