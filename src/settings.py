@@ -54,6 +54,7 @@ REQUEST_TIMEOUT = 30  # seconds
 DEFAULT_DAYS_BACK = 7 # days
 MAX_PAGES_PER_QUERY = 1 # pages
 MIN_ARTICLE_LENGTH = 50 # words
+MAX_ARTICLE_LENGTH = 5000 # words - anything longer is unlikely to be a news article
 
 # -------------------------------------------------------------------
 # Project metadata
